@@ -1,0 +1,48 @@
+{
+  "report_generated": "2026-01-02 18:46:00",
+  "study_area": {
+    "region": "Gafsa Governorate, Tunisia",
+    "area_km2": 7.247867139840137e-07,
+    "delegations": 11,
+    "bbox": {
+      "min_lon": 8.04351,
+      "min_lat": 34.083119,
+      "max_lon": 9.600285,
+      "max_lat": 34.773811
+    }
+  },
+  "rainfall_data": {
+    "total_records": 417960,
+    "temporal_coverage": {
+      "start_date": "1981-01-01 00:00:00",
+      "end_date": "2025-12-21 00:00:00",
+      "years": 44.969199178644764
+    },
+    "data_quality": {
+      "missing_values": 7740,
+      "duplicate_records": 0,
+      "completeness_pct": 99.8971193415638
+    }
+  },
+  "elevation_data": {
+    "min_elevation_m": 29.0,
+    "max_elevation_m": 1150.0,
+    "mean_elevation_m": 368.49181937062565,
+    "std_elevation_m": 183.71326657233536,
+    "elevation_range_m": 1121.0
+  },
+  "osm_features": {
+    "buildings": 24483,
+    "water_bodies": 46,
+    "waterways": 171,
+    "waterways_length_km": 0.004407587395300206,
+    "landuse_polygons": 1151
+  },
+  "historical_floods": {
+    "total_events": 10,
+    "total_deaths": 38,
+    "total_affected": 109000,
+    "mean_rainfall_mm": 101.0,
+    "max_rainfall_mm": 150.0
+  }
+}

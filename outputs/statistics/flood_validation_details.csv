@@ -1,0 +1,11 @@
+event_id,location,lon,lat,predicted_risk_value,predicted_risk
+1,"Gafsa, Kairouan, Siliana",8.933632096229106,34.5610786954911,0,Low
+2,Tunisia (including central regions),8.933632096229106,34.5610786954911,0,Low
+3,Tunisia (multiple governorates),8.933632096229106,34.5610786954911,0,Low
+4,"Tunisia (Nabeul, Tunis, Central regions)",8.933632096229106,34.5610786954911,0,Low
+5,"Tunisia (Kairouan, Gafsa regions)",8.933632096229106,34.5610786954911,0,Low
+6,Tunisia (Multiple regions),8.933632096229106,34.5610786954911,0,Low
+7,Tunisia (Central and Southern regions),8.933632096229106,34.5610786954911,0,Low
+8,"Tunisia (Sidi Bouzid, Gafsa, Kasserine)",8.933632096229106,34.5610786954911,0,Low
+9,Tunisia (Central regions),8.933632096229106,34.5610786954911,0,Low
+10,Tunisia (Multiple governorates),8.933632096229106,34.5610786954911,0,Low
